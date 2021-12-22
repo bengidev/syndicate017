@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bambang Tri Rahmat Doni</h1>
-<h3 align="center">A newcomer Java Native Developer from Indonesia</h3>
+<h3 align="center">A Newcomer Java Native Developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Java Native for Android, Desktop, and Back-End App**
 
