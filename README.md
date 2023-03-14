@@ -1,31 +1,34 @@
-<h1 align="center">Hi 👋, I'm Bambang Tri Rahmat Doni</h1>
-<h3 align="center">A Newcomer Android Java Native Developer from Indonesia</h3>
+# Hello, I'm Bambang Tri Rahmat Doni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">
 
-- 🌱 I’m currently learning **Java Native for Android Developer, Lumen API for Back-End, MySQL for Local Database, and PostMan for testing the End-Point.**
+### A Mobile App Developer using cross-platform framework with Dart / Flutter
+[![](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bambangtrd17)
+[![](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://syndicate017.github.io/Portofolio_BambangTRD/)
+[![](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/beng_trd)
+[![](https://img.shields.io/badge/-Email-0088cc?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=bambang.trd17@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/syndicate017](https://github.com/syndicate017)
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
-- 📝 I regularly write articles on [https://syndicate017.github.io/Tutorial_Portofolio](https://syndicate017.github.io/Tutorial_Portofolio)
+---- 
 
-- 📫 How to reach me **bambang.trd17@gmail.com or geniuses17@gmail.com**
+### Talking about Personal Stuffs:
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K_rs5SzvxFHLCGnFpw9qtOIchvdpGThu/view?usp=sharing](https://drive.google.com/file/d/1K_rs5SzvxFHLCGnFpw9qtOIchvdpGThu/view?usp=sharing)
+- 🚀 &nbsp; I’m currently learning Mobile App Development using cross-platform framework with Dart / Flutter.
+- 🛠 &nbsp; I’m currently working with Git, Android Studio, Visual Studio Code, REST APIs, SQL, Firebase, etc.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/syndicate017).
+- 👾 &nbsp; Fun fact: Null is not equal to Undefined or vice versa.
+- 📫 &nbsp; How to reach me: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=bambang.trd17@gmail.com).
 
-- ⚡ Fun fact **I'm stupid but still want to keep learning.**
+### Languages and Tools:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bambang-tri-rahmat-doni-9a3148204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bambang-tri-rahmat-doni-9a3148204" height="30" width="40" /></a>
-<a href="https://instagram.com/bambang_trd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bambang_trd" height="30" width="40" /></a>
-<a href="https://discord.gg/B e n g#8064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="B e n g#8064" height="30" width="40" /></a>
-</p>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/android-studio/android-studio.png" alt="android-studio"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="json"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syndicate017&show_icons=true&locale=en&layout=compact" alt="syndicate017" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syndicate017&show_icons=true&locale=en" alt="syndicate017" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syndicate017&" alt="syndicate017" /></p>
-
+### GitHub Statistics:
+[![](https://github-readme-stats.vercel.app/api?username=syndicate017&show_icons=true&theme=transparent)](https://github.com/syndicate017)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=syndicate017&layout=compact)](https://github.com/syndicate017)
